@@ -33,7 +33,8 @@ python main.py
 
 ## 📸 Screenshot
 
-![App Screenshot](screenshot.png)
+<img width="3839" height="1642" alt="Screenshot 2026-03-27 162106" src="https://github.com/user-attachments/assets/fe55b31a-8ef1-4415-97e4-4f4030a6078a" />
+
 
 ---
 
