@@ -45,7 +45,7 @@ This is my beginner-level Python project created to improve my programming skill
 
 ## 👤 Author
 
-**Your Name**
+**nimra**
 Beginner Python Developer 🚀
 
 ---
